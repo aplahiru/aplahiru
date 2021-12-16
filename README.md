@@ -25,6 +25,14 @@
   </a>
 </p>
 
+## 🔥 My Stats
+<p align="center">
+  <a href="https://github.com/aplahiru/github-readme-streak-stats">
+    ![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=aplahiru&show_icons=true&hide=[%22issues%22])
+  </a>
+</p>
+
+
 ## 🔥 Most used Languages
 
 <p align="center">
