@@ -25,4 +25,6 @@
   </a>
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+## 🔥 Most used Languages
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aplahiru&layout=compact">
