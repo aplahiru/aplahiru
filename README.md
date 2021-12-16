@@ -2,12 +2,12 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<center>
+<p align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aplahiru.aplahiru)
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aplahiru)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-madhushan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aplahiru8844@gmail.com)
-</center>
+</p>
 
 ## 📖 About me
 
