@@ -16,7 +16,7 @@
 * 👀 I’m working with React / Redux / Saga
 * 🌱 I’m currently learning Java
 
-
+<!-- 
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -29,6 +29,7 @@
 
 ![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=aplahiru&show_icons=true&hide=[%22issues%22])
 
+ -->
 
 ## 🔥 Most used Languages
 
