@@ -27,4 +27,8 @@
 
 ## 🔥 Most used Languages
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aplahiru&layout=compact">
+<p align="center">
+  <a href="https://github.com/aplahiru/github-readme-streak-stats">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aplahiru&layout=compact">
+  </a>
+</p>
