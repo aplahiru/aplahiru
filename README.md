@@ -2,12 +2,17 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aplahiru.aplahiru)
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aplahiru)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-madhushan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aplahiru8844@gmail.com)
-</p>
+
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/aplahiru/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/aplahiru/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/aplahiru/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/aplahiru/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aplahiru/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/aplahiru/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aplahiru/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 ## 📖 About me
 
