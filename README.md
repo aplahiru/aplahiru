@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lahiru Madushan</h1>
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
 - 👋 Hi, I’m Lahiru Madushan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
