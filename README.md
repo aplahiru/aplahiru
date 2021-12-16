@@ -10,7 +10,23 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aplahiru)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-madhushan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aplahiru8844@gmail.com)
-<!---
-aplahiru/aplahiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 📖 About me
+
+* 💻 I'm a web developer
+* 🎨 I'm a self-taught UI developer
+* 🎓 I'm a graduated student from University of Sri Jayewardhanepura
+* 👀 I’m working with React / Redux / Saga
+* 🌱 I’m currently learning Java
+
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/aplahiru/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aplahiru#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/aplahiru?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
