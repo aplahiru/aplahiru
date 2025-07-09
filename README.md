@@ -10,11 +10,10 @@
 
 ## 📖 About me
 
-* 💻 I'm a web developer
-* 🎨 I'm a self-taught UI developer
-* 🎓 I'm a graduated student from University of Sri Jayewardhanepura
-* 👀 I’m working with React / Redux / Saga
-* 🌱 I’m currently learning Java
+* 💻 I'm a Full Stack Software Engineer
+* 🎓 I'm a graduate student from the University of Sri Jayewardhanepura
+* 👀 I’m working with Node | React | AWS
+* 🌱 I’m currently learning AI integration with MCP
 
 <!-- 
 ## 🔥 My contribution streak
